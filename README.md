@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard built using Uber trip da
 
 ##  Dashboard Preview
 
-![Dashboard Preview](Uber_Dashboard.png)
+![Dashboard Preview](Uber.png)
 
 # Key Insights
 
